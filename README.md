@@ -30,6 +30,14 @@ The Starfield font is NB Architekt Regular, this is a commercial font and cannot
 4. Change or comment out (remove the leading ; from what you need and add a leading ; for the lines you do not) TempQuery=current.temp_c and DegText="C" depending on if you wish temp to be in F or C.
 5. Reload any loaded Starfield UI rainmeter components.
 
+## Application Launcher
+
+1. The squares under Resources are application launchers, you can change what is launched and what the text displays by editing the Apps & Paths section in the Variable.inc file found in the skin folder under @Resources
+
+## Game Quotes
+
+The top text shown under the constellation logo can periodically change to any short text you wish.  It currently has one entry so never changes, should you wish to add more quotes open starfield.txt found under @Resources/Text and add each quote on a new line.
+
 ## Scaling 
 
 1. If you mouse over most loaded components you can (if drag is enabled) scale them using your mouse wheel.
