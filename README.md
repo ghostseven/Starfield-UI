@@ -5,9 +5,11 @@ This configuration and detials page is very basic and some work will be required
 
 ## A Word About Fonts
 
-The Starfield font is NB Architekt Regular, this is a commercial font and cannot be included in this package. You can obtain this font from here.  An alternative is provided in this package. If you wish to use the commercial font it can be purchased from https://neubauladen.com/product/nb-architekt-edition/
+The Starfield font is NB Architekt Regular, this is a commercial font and cannot be included in this package. An alternative is provided in this package. If you wish to use the commercial font it can be purchased from https://neubauladen.com/product/nb-architekt-edition/
 
-A comparison of the substituted font.
+![A comparison of the substituted font](https://github.com/ghostseven/Starfield-UI/blob/master/Font-Comparison.png)
+
+
 
 ## Requirements
 
