@@ -1,7 +1,11 @@
 # Starfield-UI
 Rainmeter Starfield UI 
 
-This configuration and detials page is very basic and some work will be required.  You can message here or on reddit (while it still survives) I am ghostseven.
+This configuration and detials page is very basic and some work will be required.  You can message here or on reddit I am ghostseven.
+
+## Release Link
+
+https://github.com/ghostseven/Starfield-UI/releases/tag/V1.0
 
 ## A Word About Fonts
 
