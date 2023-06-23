@@ -5,7 +5,7 @@ This configuration and detials page is very basic and some work will be required
 
 ## Release Link
 
-https://github.com/ghostseven/Starfield-UI/releases/tag/V1.0
+[Latest Release - JSON Plugin Fix](https://github.com/ghostseven/Starfield-UI/releases/tag/V1.1)
 
 ## A Word About Fonts
 
