@@ -5,7 +5,7 @@ This configuration and detials page is very basic and some work will be required
 
 ## Release Link
 
-[https://github.com/ghostseven/Starfield-UI/release](https://github.com/ghostseven/Starfield-UI/releases)
+[https://github.com/ghostseven/Starfield-UI/release](Latest Release - Countdown Timer)
 
 ## A Word About Fonts
 
