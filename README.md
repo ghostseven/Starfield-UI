@@ -4,7 +4,8 @@ Rainmeter Starfield UI
 This configuration and detials page is very basic and some work will be required.  You can message here or on reddit I am ghostseven.
 
 ## Release Link
-[Latest Release - Countdown Timer](https://github.com/ghostseven/Starfield-UI/release)
+
+[https://github.com/ghostseven/Starfield-UI/release](https://github.com/ghostseven/Starfield-UI/releases)
 
 ## A Word About Fonts
 
